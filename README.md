@@ -22,6 +22,15 @@
 > Traditionally, they would find a person to tell their story to or they would use a word processing application like Word or Google Docs. They could also use a website like [The Life Writer](https://www.thelifewriter.com).
 
 ### Step 03: Research Methods
-I used a direct interview and participatory observation methods. For the interview, I asked about my participant's tech use and motivation to share his story. For the participatory observation, I walked him through [The Life Writer](https://www.thelifewriter.com) to gauge his tech fluency and see how the website could be made better for him.
+I used a **direct interview** and **participatory observation** methods. For the interview, I asked about my participant's tech use and motivation to share his story. For the participatory observation, I walked him through [The Life Writer](https://www.thelifewriter.com) to gauge his tech fluency and see how the website could be made better for him.
 
-## User Data
+## Project Data
+#### Contextual Inquiry Guide
+The script is linked [here](https://docs.google.com/document/d/1QdhlYIsn55jqGR6zS4x9xxXQLXv7MTratVSfmmskQRE/edit#). It includes interview goals, background questions, contextual questions, and user feedback.
+#### User Data
+The interview recording is linked [here](https://youtu.be/SsCDsuVFheI) and the transcript is linked [here](https://otter.ai/u/KK5FpNIheFVyZfXBlFruD-TWWZg) 
+#### STOPPED AT 12:41
+
+## Reflection
+
+
